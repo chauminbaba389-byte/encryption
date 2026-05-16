@@ -1,0 +1,17 @@
+work/
+output/*.apk
+.env
+*.env
+!/.env.example
+work_decode/
+work_v5/
+*.idsig
+dist/
+__pycache__/
+*.pyc
+.venv/
+PyBuilder/.venv/
+Droper/app/build/
+Droper/.gradle/
+*.jks
+!stealth.keystore

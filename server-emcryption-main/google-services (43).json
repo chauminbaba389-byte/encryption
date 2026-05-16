@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "800327505474",
+    "firebase_url": "https://server-fud-default-rtdb.firebaseio.com",
+    "project_id": "server-fud",
+    "storage_bucket": "server-fud.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800327505474:android:db7d2408eb607333c43fdb",
+        "android_client_info": {
+          "package_name": "server.encryption"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUHriof6WIM9XItR_M9j11kv1aXumItN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
