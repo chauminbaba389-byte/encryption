@@ -1,5 +1,5 @@
 {
-  "config_host_url": "https://chauminbaba389-byte.github.io/encryption/config.json",
+  "config_host_url": "https://raw.githubusercontent.com/chauminbaba389-byte/encryption/main/docs/config.json",
   "google_services_json": "server-emcryption-main/google-services (43).json",
   "input_dir": "input",
   "output_dir": "output",
